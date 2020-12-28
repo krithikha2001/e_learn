@@ -2,4 +2,4 @@
 # E-GURUKULAM
 The app helps a beginer to learn the basics of SANSKRIT language .
 # Stacks used
-FLutter 
+Flutter 
